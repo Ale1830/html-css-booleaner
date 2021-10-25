@@ -1,0 +1,29 @@
+
+header section{
+    background-image:url(img/pattern.png);
+    background-color: #1e90ff;
+    height: 150px;
+}
+#logo{
+    width: 200px;
+    height: auto;
+    padding-top:100px;
+}
+
+.man{
+    margin top: auto;
+    width: 600px;
+    height:400px;
+}
+
+.evidenziato{
+    background-color: yellow ;
+}
+table thead tr{
+    background-color:#1e90ff;
+}
+
+footer{
+    margin: top 15px;
+    padding:10px;
+}
